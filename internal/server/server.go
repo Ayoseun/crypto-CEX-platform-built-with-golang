@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"strconv"
 	"sync"
-	"github.com/ayoseun/Centralized-Exchange-Platform-Built-with-Golang/internal/orderbook"
+	"github.com/ayoseun/centralized-exchange-platform-built-with-golang/internal/orderbook"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
 	"github.com/ethereum/go-ethereum/crypto"

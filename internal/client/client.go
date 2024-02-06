@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/ayoseun/Centralized-Exchange-Platform-Built-with-Golang/internal/orderbook"
-	"github.com/ayoseun/Centralized-Exchange-Platform-Built-with-Golang/internal/server"
+	"github.com/ayoseun/centralized-exchange-platform-built-with-golang/internal/orderbook"
+	"github.com/ayoseun/centralized-exchange-platform-built-with-golang/internal/server"
 )
 
 const Endpoint = "http://localhost:3000"

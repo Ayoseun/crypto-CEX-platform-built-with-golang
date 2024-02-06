@@ -3,7 +3,7 @@ package mm
 import (
 	"time"
 
-	"github.com/ayoseun/Centralized-Exchange-Platform-Built-with-Golang/internal/client"
+	"github.com/ayoseun/centralized-exchange-platform-built-with-golang/internal/client"
 	"github.com/sirupsen/logrus"
 )
 

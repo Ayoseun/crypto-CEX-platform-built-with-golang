@@ -1,4 +1,4 @@
-module github.com/ayoseun/Centralized-Exchange-Platform-Built-with-Golang
+module github.com/ayoseun/centralized-exchange-platform-built-with-golang
 
 go 1.18
 
