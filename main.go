@@ -4,9 +4,9 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/ayoseun/Centralized-Exchange-Platform-Built-with-Golang/client"
-	"github.com/ayoseun/Centralized-Exchange-Platform-Built-with-Golang/mm"
-	"github.com/ayoseun/Centralized-Exchange-Platform-Built-with-Golang/server"
+	"github.com/ayoseun/Centralized-Exchange-Platform-Built-with-Golang/internal/client"
+	"github.com/ayoseun/Centralized-Exchange-Platform-Built-with-Golang/internal/mm"
+	"github.com/ayoseun/Centralized-Exchange-Platform-Built-with-Golang/internal/server"
 )
 
 func main() {
