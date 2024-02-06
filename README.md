@@ -16,11 +16,11 @@ Install Go: Ensure you have Go installed on your system. You can download it fro
 Clone the Repository: Clone the Crypto CEX Package Server repository from GitHub:
 
 ```
-git clone https://github.com/yourusername/crypto-cex-server.git
+git clone https://github.com/ayoseun/Centralized-Exchange-Platform-Built-with-Golang.git
 ```
 Install Dependencies: Navigate to the project directory and install dependencies:
 ```bash
-cd crypto-cex-server
+cd Centralized-Exchange-Platform-Built-with-Golang
 ```
 ```go
 go mod tidy
@@ -28,7 +28,7 @@ go mod tidy
 Build the Server: Build the server binary:
 
 ```go
-go build -o crypto-cex-server
+go build -o Centralized-Exchange-Platform-Built-with-Golang
 ```
 or run Makefile
 
@@ -38,7 +38,7 @@ make
 Start the Server: Start the server:
 
 ```bash
-./crypto-cex-server
+./Centralized-Exchange-Platform-Built-with-Golang
 ```
 
 ### Usage
